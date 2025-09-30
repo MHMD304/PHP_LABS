@@ -3,6 +3,8 @@
 ## Overview
 Collection of PHP lab exercises organized by lab number. Each lab includes source files, assets, and in many cases an accompanying PDF describing the assignment.
 
+These lab exercises, from my college PHP course, were completed to fulfill the requirements of my academic program.
+
 ## Getting Started
 - **Requirements**: PHP 7.4+ (or PHP 8.x) and a local web server (e.g., built-in PHP server).
 - **Quick run**: From the repo root, you can serve any lab directory:

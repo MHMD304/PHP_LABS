@@ -1,0 +1,10 @@
+A123
+1972
+sad
+B456
+1234
+active
+<br />
+<b>Warning</b>:  Undefined variable $id in <b>C:\xampp\htdocs\SolvingLabs\lab8\lab8_2\profile.php</b> on line <b>58</b><br />
+
+
